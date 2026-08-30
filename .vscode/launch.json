@@ -1,0 +1,12 @@
+{
+	"configurations": [
+		{
+			"name": "Debug OpenGLTemplate",
+			"type": "cppvsdbg",
+			"request": "launch",
+			"program": "${command:cmake.launchTargetPath}",
+			"cwd": "${workspaceFolder}",
+			"stopAtEntry": false
+		}
+	]
+}
