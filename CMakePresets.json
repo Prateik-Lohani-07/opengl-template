@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"configurePresets": [
+		{
+			"name": "windows-debug",
+			"displayName": "Windows Debug",
+			"generator": "Visual Studio 17 2022",
+			"architecture": "Win32",
+			"binaryDir": "${sourceDir}/build"
+		}
+	]
+}
