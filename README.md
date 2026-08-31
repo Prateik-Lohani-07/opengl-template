@@ -1,4 +1,4 @@
-# OpenGL Template for VSCode
+# OpenGL Template for VSCode (made for Noobs like me)
 
 This is a simple reusable OpenGL template for basic C++ coding. I'll keep adding libraries and useful commands under .vscode to make it more usable in VSCode.
 
